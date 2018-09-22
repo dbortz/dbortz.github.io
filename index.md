@@ -1,3 +1,8 @@
+---
+layout: post
+title: 2007 Subaru Impreza WRX
+---
+
 # 2007 Subaru Impreza WRX
 
 ## About
@@ -10,15 +15,25 @@ The car has been very well maintained, and we have all maintenance records avail
 ## Details
 
 Year: 2007
+
 Make: Subaru
+
 Model: Impreza
+
 Trim: WRX Sport Wagon
-Condition: Used Clear Title
+
+Condition: Used, Clear Title
+
 Miles: 57,000
+
 Exterior Color: Black
+
 Interior Color: Black / Gray
+
 Engine: 4-Cyl, Turbo, 2.5 Liter
+
 Transmission: 5 Speed Manual
+
 Drivetrain: AWD
 
 Also includes aftermarket 8" low-profile subwoofer under passenger seat.
